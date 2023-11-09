@@ -1,6 +1,6 @@
 # SQL Workshop
 
-This is material for Jack and Jake's SQL workshop at [Code Platoon][cp].
+This is material for [Jack and Jake's SQL workshop](https://github.com/jwworth/sql-workshop) at [Code Platoon][cp].
 
 To see how the day will progress, check out the [Agenda][agenda].
 
