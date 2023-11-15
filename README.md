@@ -9,7 +9,7 @@ To see how the day will progress, check out the [Agenda][agenda].
 Clone the repo (no need to fork):
 
 ```
-$ git clone https://github.com/jwworth/sql-workshop
+$ git clone https://github.com/code-platoon-curriculum/sql-workshop
 ```
 
 Install [PostgreSQL][pg]. This is really important; please try to have a
